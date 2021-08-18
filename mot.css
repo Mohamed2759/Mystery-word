@@ -1,0 +1,16 @@
+body {
+    background: url(mot.jpg) no-repeat center center fixed;
+}
+
+input {
+  display: flex;
+  justify-content: center;
+}
+
+body {
+    margin-left: 40%;
+}
+
+span {
+    margin-top: -30%;
+}
